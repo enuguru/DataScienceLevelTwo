@@ -90,5 +90,3 @@ go to top left hand corner and click on top left "file" and
 "new notebook"
 
 then we can type the programs in the page seen
-
-
