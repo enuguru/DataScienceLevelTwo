@@ -21,3 +21,4 @@ dependencies:         # everything under this, installed by conda
 - nbconvert
 - plotly==3.10.0
 - seaborn==0.10.0
+- geopandas==0.3.0
