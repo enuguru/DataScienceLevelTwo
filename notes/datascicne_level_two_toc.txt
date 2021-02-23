@@ -1,0 +1,38 @@
+
+data science level two - table of contents
+------------------------------------------
+
+introduction
+    Data Science Level 1 review
+    Assessment for Level 1 - details
+    installation details
+    pre-requisites for Level 2
+
+case studies
+    loan approval
+    movie rating
+    creditcard
+    telecommunication network customer churn
+    retail customer segmentation
+
+data cleaning
+    MCAR
+    MAR
+    MNAR
+    deleting data
+    inserting data
+    imputation
+    clearning functions in pandas
+    removing outliers
+
+more complex plots using matplotlib and seaborn
+    heat maps
+    combination plots
+    swarm plots
+    interactive plots
+    other significant plots
+
+time series analysis
+    smoothing
+    combining and removing components of time series
+    forecasting
