@@ -6,7 +6,7 @@ import plotly.offline as pyo
 import plotly.graph_objs as go
 import pandas as pd
 
-df = pd.read_csv('../data/2018WinterOlympics.csv')
+df = pd.read_csv('2018WinterOlympics.csv')
 
 data = [go.Bar(
     x=df['NOC'],  # NOC stands for National Olympic Committee
