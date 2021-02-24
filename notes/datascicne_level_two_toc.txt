@@ -36,3 +36,7 @@ time series analysis
     smoothing
     combining and removing components of time series
     forecasting
+
+Dimensionality Reduction
+    PCA
+    LDA
