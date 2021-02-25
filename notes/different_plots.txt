@@ -1,0 +1,21 @@
+
+What is Seaborn ?
+
+Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics
+
+Seaborn helps resolve the two major problems faced by Matplotlib; the problems are as below
+
+Default Matplotlib parameters
+Working with data frames
+
+
+As Seaborn compliments and extends Matplotlib, the learning curve is quite gradual. If you know Matplotlib, you are already half-way through Seaborn.
+
+What is distplot ?
+
+Seaborn distplot lets you show a histogram with a line on it. This can be shown in all kinds of variations. We use seaborn in combination with matplotlib, the Python plotting module.
+
+A distplot plots a univariate distribution of observations. The distplot() function combines the matplotlib hist function with the seaborn kdeplot() and rugplot() functions.
+
+
+This method is used to plot data and a linear regression model fit. There are a number of mutually exclusive options for estimating the regression model. 

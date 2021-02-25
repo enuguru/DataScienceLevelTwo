@@ -22,3 +22,5 @@ dependencies:         # everything under this, installed by conda
 - plotly==3.10.0
 - seaborn==0.10.0
 - geopandas==0.3.0
+- pywaffle==0.4.1
+
