@@ -1,0 +1,56 @@
+
+ID3 - Iterative Dichotomiser 3
+
+CART - Classification And Regression Trees
+
+C4.5 - often referred to as a statistical classifier
+
+C5.0
+
+J4.8 - is decision tree written in Java
+
+
+gini index   splitting criterion - CART algorithm
+
+entropy, information gain - splitting criterion - ID3 algorithm
+
+
+input variables or features   -    continuous or categorical
+
+target or output variable     -    continuous or categorical
+
+regression 
+
+classification
+
+
+rapid miner
+SAS
+SPSS
+R
+
+find a program that outputs the actual decision tree
+that is built for the dataset. The program should be in python
+
+do the same program for the Rafal Nadal tennis playing dataset
+
+what is the intuition behind choosing Stand Devia for the 
+regression problem?
+http://www.saedsayad.com/decision_tree_reg.htm
+
+
+
+ID3 -  this uses information gain and entropy as the 
+       splitting criteria
+
+C4.5 - this uses gain ratio as the splitting criteria
+
+CART - this uses gini index as the splitting criteria
+       gini - continuous or categorical
+
+
+
+
+
+
+
