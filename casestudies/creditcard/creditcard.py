@@ -109,7 +109,3 @@ plt.title("Confusion matrix")
 plt.ylabel('True class') 
 plt.xlabel('Predicted class') 
 plt.show() 
-
-
-
-
